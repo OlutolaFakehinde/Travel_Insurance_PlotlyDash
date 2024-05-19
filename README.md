@@ -31,3 +31,6 @@ Codes were written for the callback for the filters to show the rate of travel i
 ## Conclusion
 With the combinations of the considerations, the various factors affecting travel insurance can be determined and recommendations for improvement can be established.
 
+## Interaction
+Interact with the document .[here](Travel Insurance Analysis Dashboard with Python in Jupyter notebook project)
+
