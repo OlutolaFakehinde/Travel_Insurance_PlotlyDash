@@ -18,7 +18,7 @@ Some of the queries examined in this project were the rate of purchased of trave
 #### Procedure
 Some of the charts plotted and used to achieve the above considerations are:
 1. Number of travellers based on the available data was determined
-2. Average incoome of traveller
+2. Average income of traveller
 3. Number of frequent flyers determined
 4. Travellers type of employment
 5. Age distribution of travellers
@@ -32,5 +32,5 @@ Codes were written for the callback for the filters to show the rate of travel i
 With the combinations of the considerations, the various factors affecting travel insurance can be determined and recommendations for improvement can be established.
 
 ## Interaction
-Interact with the document .[[Travel Insurance Analysis Dashboard with Python in Jupyter notebook project](http://localhost:8889/notebooks/OneDrive/Documents/Tola/Data%20Analysis/Python/Projects_26102023/Travel%20Insurance%20Analysis%20Dashboard%20with%20Python%20in%20Jupyter%20notebook%20project.ipynb)]
+Interact with the document .[http://localhost:8888/notebooks/OneDrive/Documents/Tola/Data%20Analysis/Python/Projects_26102023/Travel%20Insurance%20Analysis%20Dashboard%20with%20Python%20in%20Jupyter%20notebook%20project.ipynb]
 
